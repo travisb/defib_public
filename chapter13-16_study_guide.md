@@ -46,7 +46,7 @@
             oxygen and nutrients to the body's tissues and organs.  Can lead to 
             organ failure/disfunction
       
-      **Symptoms include:**
+      **Symptoms of Shock Include:**
 
       - Pale or cool skin
       - Rapid, weak pulse
