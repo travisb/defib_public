@@ -57,7 +57,15 @@
       - Decreased urine output
       - Weakness or fatigue
       - Anxiety or restlessness
+    
+    **Treatment of Shock**
+
+      **Note** Failure to do the following steps results in an automatic skills failure
       
+      - Blanket
+      - O2
+      - Place PT in a supine position
+
     **Types of Shock:**
 
       - Hypovolemic Shock - A significant loss of blood or fluids. 
