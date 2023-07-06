@@ -5,4 +5,5 @@ offical defib test study guides.
 
 ## Guides 
 
-- [ Chapter 13-18 ](docs/study_guides/chapter_13-18.md) 
+- [ Chapter 13-18 ](docs/study_guides/chapter13-16_study_guide.md)
+
