@@ -18,7 +18,7 @@ You are guided to the patient's room by one of the Certified Nurse Assistants (C
 you the patient didn't feel well this morning, and now she's having difficulty waking her up.
 The patient appears unresponsive when you enter. She opens her eyes to verbal stimuli
 
-### XABCDE
+### _XABCDE_
 
 **X:** No bleeding present.
 
@@ -32,7 +32,7 @@ The patient appears unresponsive when you enter. She opens her eyes to verbal st
 
 **E:** Patient has accessory muscle use in neck, chest and abdomen.
 
-### AEIOU
+### _AEIOU_
 
 **A:** No odor of an alcoholic beverage
 
@@ -44,7 +44,7 @@ The patient appears unresponsive when you enter. She opens her eyes to verbal st
 
 **O/U:** Per CNA, patient took meds as scheduled
 
-### TIPS
+### _TIPS_
 
 **T:** No trauma or toxins
 **I:** No history of diabetes, BG 96
@@ -66,12 +66,16 @@ The patient appears unresponsive when you enter. She opens her eyes to verbal st
 
 ## Secondary Assessment
 
+### _SAMPLE_
+
 **S:** Weak; AS: ALOC, pale/cool, PN: pain, bleeding
 **A**: Penicillin
 **M:** Amlodipine, atorvastatin, meloxicam
 **P:** HTN, HLD, arthritis
 **L:** Dinner last nigh, Voided normally this AM
 **E:** Woke up feeling tired and weak
+
+### _OPQRST_
 
 **O:** Gradual
 **P:** N/A
