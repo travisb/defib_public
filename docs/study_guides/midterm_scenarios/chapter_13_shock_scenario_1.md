@@ -7,6 +7,7 @@ EMT Unit 5, respond Code 3 to Gentle Care Nursing Home, 1891 International Avenu
 
 
 ## PENMAN
+---------
 
 You arrive on scene to a nursing home: there are no hazards present. There is one patient.
 Nature of illness is general weakness. You have your EMT partner and a BLS fire department on
@@ -19,7 +20,7 @@ you the patient didn't feel well this morning, and now she's having difficulty w
 The patient appears unresponsive when you enter. She opens her eyes to verbal stimuli
 
 ### _XABCDE_
-
+----------
 **X:** No bleeding present.
 
 **A**: The airway is patent.
@@ -33,6 +34,7 @@ The patient appears unresponsive when you enter. She opens her eyes to verbal st
 **E:** Patient has accessory muscle use in neck, chest and abdomen.
 
 ### _AEIOU_
+---------
 
 **A:** No odor of an alcoholic beverage
 
@@ -45,7 +47,7 @@ The patient appears unresponsive when you enter. She opens her eyes to verbal st
 **O/U:** Per CNA, patient took meds as scheduled
 
 ### _TIPS_
-
+--------
 **T:** No trauma or toxins
 
 **I:** No history of diabetes, BG 96
