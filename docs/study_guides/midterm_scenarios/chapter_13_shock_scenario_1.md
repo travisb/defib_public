@@ -18,20 +18,33 @@ You are guided to the patient's room by one of the Certified Nurse Assistants (C
 you the patient didn't feel well this morning, and now she's having difficulty waking her up.
 The patient appears unresponsive when you enter. She opens her eyes to verbal stimuli
 
-## XABCDE
+### XABCDE
 
 **X:** No bleeding present.
+
 **A**: The airway is patent.
+
 **B:** Rapid, deep breaths with accessory muscle use. Right, lower rhonchi. Left side clear.
+
 **C:** Rapid and weak radial pulses. Skins are pale, cool and diaphoretic.
+
 **D:** A & Ox4 slow to answer questions.
+
 **E:** Patient has accessory muscle use in neck, chest and abdomen.
 
+### AEIOU
+
 **A:** No odor of an alcoholic beverage
+
 **E:** No history of epilepsy 
+
 **E:** Pale, cool, diaphoretic skins
+
 **I:** Patient's temp is 37.6C
+
 **O/U:** Per CNA, patient took meds as scheduled
+
+### TIPS
 
 **T:** No trauma or toxins
 **I:** No history of diabetes, BG 96
