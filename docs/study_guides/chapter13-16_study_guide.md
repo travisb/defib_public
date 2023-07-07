@@ -1,5 +1,3 @@
-# Reasons victor sucks
-
 # Defib Academy EMT Education Program - Chapter 13-16 Study Guide
 
 ## Define the following terms:
