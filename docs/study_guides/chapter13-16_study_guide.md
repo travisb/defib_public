@@ -59,8 +59,10 @@
       - Anxiety or restlessness
     
     **Treatment of Shock**
+    ------------------
 
-      **Note** Failure to do the following steps results in an automatic skills failure
+      **Note:** _Failure to do **any** of the following steps results in an 
+      **automatic skills failure**_
       
       - Blanket
       - O2
