@@ -83,6 +83,7 @@
   - Capillary Sphincters 
 
       **Function:** 
+        
         Commonly used to refer to the dynamic constriction or relaxation 
         of the of the precaillary arterioles which regulate blood flor into 
         the capilaries. When they constrict they direct bloood to other
@@ -91,6 +92,7 @@
         nutrients and waste products 
 
       **Location:** 
+        
         The precapillary arterioles are located at the entrance to the 
         capillary bed.  
 
