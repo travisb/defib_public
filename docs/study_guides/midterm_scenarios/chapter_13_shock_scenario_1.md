@@ -47,8 +47,11 @@ The patient appears unresponsive when you enter. She opens her eyes to verbal st
 ### _TIPS_
 
 **T:** No trauma or toxins
+
 **I:** No history of diabetes, BG 96
+
 **P:** No history of psych
+
 **S:** Pale, cool diaphoretic skin
 
 ## Transport
@@ -69,20 +72,30 @@ The patient appears unresponsive when you enter. She opens her eyes to verbal st
 ### _SAMPLE_
 ----------
 **S:** Weak; AS: ALOC, pale/cool, PN: pain, bleeding
+
 **A**: Penicillin
+
 **M:** Amlodipine, atorvastatin, meloxicam
+
 **P:** HTN, HLD, arthritis
+
 **L:** Dinner last nigh, Voided normally this AM
+
 **E:** Woke up feeling tired and weak
 
 ### _OPQRST_
 ----------
 
 **O:** Gradual
+
 **P:** N/A
+
 **Q:** "I feel so tired"
+
 **R:** "All over"
+
 **S:** N/A
+
 **T:** Since 8 AM
 
 
@@ -97,11 +110,11 @@ The patient appears unresponsive when you enter. She opens her eyes to verbal st
 
 (**Question**: how much time has elapsed)
 
-**BP:** 86/42; 
-**HR:** 110 weak, rapid, regular; 
-**RR:** 24, deep, +AMU; 
-**SpO2:** 88% RA/95% 15L; 
-**BG:** 94; T 37.6
+- **BP:** 86/42; 
+- **HR:** 110 weak, rapid, regular; 
+- **RR:** 24, deep, +AMU; 
+- **SpO2:** 88% RA/95% 15L; 
+- **BG:** 94; T 37.6
 
 ### Differential diagnosis
 
