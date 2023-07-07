@@ -80,16 +80,16 @@
 
 ## Identify the location and function of the following anatomical structures:
 
-    - Capillary Sphincters -  
-        **Function:** Commonly used to refer to the dynamic constriction or relaxation 
-                      of the of the precaillary arterioles which regulate blood flor into 
-                      the capilaries. When they constrict they direct bloood to other
-                      parts of the body. Conversly, when they dilate they blood flows
-                      into the capillaries allowing for efficient exange of O2 and 
-                      nutrients and waste products 
+  - Capillary Sphincters -  
+      **Function:** Commonly used to refer to the dynamic constriction or relaxation 
+                    of the of the precaillary arterioles which regulate blood flor into 
+                    the capilaries. When they constrict they direct bloood to other
+                    parts of the body. Conversly, when they dilate they blood flows
+                    into the capillaries allowing for efficient exange of O2 and 
+                    nutrients and waste products 
 
-        **Location:** The precapillary arterioles are located at the entrance to the 
-                      capillary bed.  
+      **Location:** The precapillary arterioles are located at the entrance to the 
+                    capillary bed.  
 
 ## What are the signs, symptoms, common causes, and treatments associated with the following illnesses:
 
