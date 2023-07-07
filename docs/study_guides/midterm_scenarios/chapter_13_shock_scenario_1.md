@@ -67,7 +67,7 @@ The patient appears unresponsive when you enter. She opens her eyes to verbal st
 ## Secondary Assessment
 
 ### _SAMPLE_
-
+----------
 **S:** Weak; AS: ALOC, pale/cool, PN: pain, bleeding
 **A**: Penicillin
 **M:** Amlodipine, atorvastatin, meloxicam
@@ -76,6 +76,7 @@ The patient appears unresponsive when you enter. She opens her eyes to verbal st
 **E:** Woke up feeling tired and weak
 
 ### _OPQRST_
+----------
 
 **O:** Gradual
 **P:** N/A
