@@ -66,14 +66,14 @@
 
 ### Anatomy and Physiology of the GI System
 
-__***Liver:***__
+***Liver:***
 ========
 
   Assists in digestion by secreting bile -> digestion of fats, 
   filters toxic substances from digestion, creates glucose stores,
   makes some blood clot helping stuff
 
-___Galbladder:___
+***Galbladder:***
 ==========
 
   Hollow pouch located beneath liver that stores bile
