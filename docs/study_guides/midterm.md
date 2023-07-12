@@ -47,7 +47,7 @@
 
 ## General Knowledge 
 
-***NOTE:*** ** Some questions are incorrectly numbered  vs the paper study guide **
+***NOTE:*** **Some questions are incorrectly numbered  vs the paper study guide**
 
 1. Know the classifications of shock and their common causes.
 2. Know the flow of blood through the heart.
