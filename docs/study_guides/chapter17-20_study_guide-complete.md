@@ -72,7 +72,7 @@
   filters toxic substances from digestion, creates glucose stores,
   makes some blood clot helping stuff
 
-***Galbladder:***
+___Galbladder:___
 
   Hollow pouch located beneath liver that stores bile
 
@@ -88,7 +88,7 @@
             to the liver to make **vitamin B12**,
             _used in making nerve and red blood cells_
 
-**Ppancreas:***
+***Ppancreas:***
 
   Secretes juice containing enzymes such as **amylase** that _help break down starches, fats, and proteins_.
   Also produces _bicarbonate_ and _insulin_ 
