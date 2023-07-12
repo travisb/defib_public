@@ -66,24 +66,30 @@
 
 ### Anatomy and Physiology of the GI System
 
-**Liver:** Assists in digestion by secreting bile -> digestion of fats, 
-         filters toxic substances from digestion, creates glucose stores,
-         makes some blood clot helping stuff
+***Liver:*** 
 
-**Galbladder:** Hollow pouch located beneath liver that stores bile
+  Assists in digestion by secreting bile -> digestion of fats, 
+  filters toxic substances from digestion, creates glucose stores,
+  makes some blood clot helping stuff
 
+***Galbladder:***
 
-**Small Intestine:** 3 components
+  Hollow pouch located beneath liver that stores bile
 
-  **Duodenum:** Digestive juices from pancreas and liver mix here 
-  **Jejunum:** 
-      - Plays a role in the absorption of digestive products
-      - Large amount of surface area of SI and does most of the work
-   **Ileum:** Absorbs previously unabsorbed nutrients and returns bile 
-          to the liver to make **vitamin B12**,
-          _used in making nerve and red blood cells_
+***Small Intestine:***
 
-**pancreas:**
+  **3 components:**
+
+    **Duodenum:** Digestive juices from pancreas and liver mix here 
+    **Jejunum:** 
+        - Plays a role in the absorption of digestive products
+        - Large amount of surface area of SI and does most of the work
+    **Ileum:** Absorbs previously unabsorbed nutrients and returns bile 
+            to the liver to make **vitamin B12**,
+            _used in making nerve and red blood cells_
+
+**Ppancreas:***
+
   Secretes juice containing enzymes such as **amylase** that _help break down starches, fats, and proteins_.
   Also produces _bicarbonate_ and _insulin_ 
 
@@ -93,7 +99,7 @@
   The food that is _not broken down_ and used as nutrients -> colon | large intestine, as waste products.
   _Peristalsis_ moves the waste matter through the intestines.
 
-**Spleen:**
+***Spleen:***
 
   - _Located in the abdomen_ but has **no digestive system function**
   - Is part of the _lymphatic_ system,
