@@ -66,7 +66,7 @@
 
 ### Anatomy and Physiology of the GI System
 
-***Liver:*** 
+__***Liver:***__
 
   Assists in digestion by secreting bile -> digestion of fats, 
   filters toxic substances from digestion, creates glucose stores,
