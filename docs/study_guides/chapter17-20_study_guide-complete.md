@@ -14,7 +14,7 @@
 
 ### Identify the location and function of the following anatomical structures
 
-  - Spleen
+  - Spleen -   
   - Illiac arteries
   - Femoral arteries
   - Foramen magnum
@@ -34,7 +34,7 @@
   - Deep Vein Thrombosis
   - Esophageal varices
   - Hypoglycemia
-  - Mallory-Weiss tear
+  - Mallory-Weiss Syndrome:
 
 ## Qestions
 
@@ -113,4 +113,7 @@
   - Aids in the **production of red blood cells**
   - **blood reservoir**
   - **Produces antibodies** -> fight off disease and infection
+
+### Anatomy and Physiology of the GI System
+
 
