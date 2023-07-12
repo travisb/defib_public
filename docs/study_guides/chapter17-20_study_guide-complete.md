@@ -66,19 +66,19 @@
 
 ### Anatomy and Physiology of the GI System
 
-***Liver:***
+**Liver:**
 ========
 
   Assists in digestion by secreting bile -> digestion of fats, 
   filters toxic substances from digestion, creates glucose stores,
   makes some blood clot helping stuff
 
-***Galbladder:***
+**Galbladder:**
 ==========
 
   Hollow pouch located beneath liver that stores bile
 
-***Small Intestine:***
+**Small Intestine:**
 =================
 
   **3 components:**
@@ -91,7 +91,7 @@
           to the liver to make **vitamin B12**,
           _used in making nerve and red blood cells_
 
-***Pancreas:***
+**Pancreas:**
 ===========
 
   Secretes juice containing enzymes such as **amylase** that _help break down starches, fats, and proteins_.
@@ -103,7 +103,7 @@
   The food that is _not broken down_ and used as nutrients -> colon | large intestine, as waste products.
   _Peristalsis_ moves the waste matter through the intestines.
 
-***Spleen:***
+**Spleen:**
 ========
 
   - _Located in the abdomen_ but has **no digestive system function**
