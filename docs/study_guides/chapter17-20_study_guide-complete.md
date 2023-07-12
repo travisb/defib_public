@@ -83,13 +83,13 @@
 
   **3 components:**
 
-    **Duodenum:** Digestive juices from pancreas and liver mix here 
-    **Jejunum:** 
-        - Plays a role in the absorption of digestive products
-        - Large amount of surface area of SI and does most of the work
-    **Ileum:** Absorbs previously unabsorbed nutrients and returns bile 
-            to the liver to make **vitamin B12**,
-            _used in making nerve and red blood cells_
+  **Duodenum:** Digestive juices from pancreas and liver mix here 
+  **Jejunum:** 
+      - Plays a role in the absorption of digestive products
+      - Large amount of surface area of SI and does most of the work
+  **Ileum:** Absorbs previously unabsorbed nutrients and returns bile 
+          to the liver to make **vitamin B12**,
+          _used in making nerve and red blood cells_
 
 ***Pancreas:***
 ===========
@@ -97,8 +97,8 @@
   Secretes juice containing enzymes such as **amylase** that _help break down starches, fats, and proteins_.
   Also produces _bicarbonate_ and _insulin_ 
 
-    - bicarbonate neutralizes the stomach acid in the duodenum.
-    - Insulin helps regulate the levels of glucose in the bloodstream.
+  - bicarbonate neutralizes the stomach acid in the duodenum.
+  - Insulin helps regulate the levels of glucose in the bloodstream.
 
   The food that is _not broken down_ and used as nutrients -> colon | large intestine, as waste products.
   _Peristalsis_ moves the waste matter through the intestines.
