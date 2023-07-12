@@ -3,12 +3,12 @@
 ## Chapter 17-20 Study Guide
   - Define the following terms:
     - Diabetes Mellitus 
-    
-    - Aphasia
-    
+    - Aphasia
     - Status epilepticus 
-    
-    - Referred pain e.
+    - Referred pain 
+
+
+
 
 <!--
 Kussmaul respirations
