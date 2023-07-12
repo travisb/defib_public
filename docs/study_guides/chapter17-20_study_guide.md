@@ -3,8 +3,11 @@
 ## Chapter 17-20 Study Guide
   - Define the following terms:
     - Diabetes Mellitus 
+    
     - Aphasia
+    
     - Status epilepticus 
+    
     - Referred pain e.
 
 <!--
