@@ -2,7 +2,7 @@
 
 ## Define the following terms:
 
-  - Index of suspicion -
+  - Index of suspicion - ***STILL VERY UNCLEAR HOW TO COMMUNICATE THIS CONCEPT TO A 3RD GRADER***
   - dyspnea  - Cant breathe 
   - Stridor - Wheezing sound most commonly heard during inhalation but can
               also be heard during exhalation. Commonly associated with 
@@ -119,7 +119,6 @@
     sdlkfjdslakjflsdakjflskdjfl
 
   ### Hyperventilation syndrome C. Pulmonary edema
-  
 
   - Anaphylaxis 
   - Meningitis
@@ -131,15 +130,123 @@
 
 ## Questions 
 
-  - What is the primary cause when children go into cardiac arrest?
-  - What environmental conditions can exacerbate asthma?
-  - What is the appropriate compression to ventilation ratio for one rescuer adult CPR? Two rescuer? One rescuer child and infant CPR? Two rescuer child and infant CPR?
-  - What are risk factors for contracting Methicillin-Resistant Staphylococcus Aureus? (MRSA)
-  - How do burns contribute to hypovolemic shock?
-  - When should a patient be placed in recovery position?
-  - What causes gastric distension in the presence of CPR?
-  - What assessment priorities should be addressed in patients suspected of having a neurologic problem?
-  - What techniques should be used to relieve choking in a conscious adult? Child? Infant?
-  - What is the appropriate rate for chest compressions during CPR?
-  - What infectious illnesses does the DTaP vaccine protect against
-  - Compare and contrast ventilation versus respiration.
+### What is the primary cause when children go into cardiac arrest?
+  
+  Respiratory failure seems like the most likely answer, **but decent argument for congenital conditions ?**
+
+### What environmental conditions can exacerbate asthma?
+
+**Off the top of my head** 
+
+- environmental factors like temp, pollen, 
+
+#### Likely correct answers 
+
+
+
+- **Allergens:** (pollen, mold, mites, dander, roaches) "the tiny bits"
+- **Tinier things:** smoke, smog and things like smog and smoke ~~~~~particulate matter~~~~~
+
+## are we noticing a trend? ^^^^
+
+- **Illness:** cold, flu, bronchitis, etc 
+
+#### Question ???????
+
+How are tiny bits and cold related vis. Asthma?
+
+**Tiny bits:** 
+
+- inflammatory response (makes sense "you, tiny bit, dont belong here, ima stop your forward motion, sorry not sorry (air <-> lungs)")
+- increased sensitivity (TODO: chat gpt answer, dont understand underlying mechanism at all)
+
+**Cold Air:**
+
+- _Constricts_ bronchial tube, **bronchospasm**, _signs/symptoms:_ wheezing, coughing, shortness of breath
+
+### What is the appropriate compression to ventilation ratio for one rescuer adult CPR? Two rescuer? One rescuer child and infant CPR? Two rescuer child and infant CPR?
+
+#### One rescuer adult: 
+
+30:2 
+
+#### Two Rescuer Adult:
+
+30:2
+
+#### One Rescuer Infant:
+
+15:2
+
+#### Two Rescuer Infant:
+
+15:2 
+
+#### One Rescuer Child:
+
+30:2
+
+#### Two Rescuer Child:
+
+30:2 
+
+
+### What are risk factors for contracting Methicillin-Resistant Staphylococcus Aureus? (MRSA)
+
+#### Off the top of my head:
+
+- Being in a hospital 
+- Staphylococcus, existing infection
+- Riding BART 
+
+#### Real answer:
+
+**Being in a hospital:** 
+
+- ICUs in particular 
+- Invasive operations/procedures (surgery, catheters, dialysis)
+- Over use of antibiotics 
+- hanging out with hospital staphers (pun intended!)
+
+
+**Community Factors:**
+
+- close quarters (dorms, barracks, correctional facilities)
+- sharing razors, towels, needles, sports equipment, 
+- poor hygiene   
+
+
+**Other Factors:**
+
+- immuno-comprimised 
+- chronic conditions 
+- IV drug use 
+
+
+### How do burns contribute to hypovolemic shock?
+
+- fluid loss
+- increased Capillary Permeability -> Inflammation -> fluids/electrolytes leaking out of tissue and vessels
+- "third space fluid shift" -- TODO research if time allows 
+
+
+### When should a patient be placed in recovery position?
+
+
+
+### What causes gastric distension in the presence of CPR?
+
+#### Off the cuff
+
+over breathing for someone.  Eg, 120+ or full bags of air for each breath 
+
+### What assessment priorities should be addressed in patients suspected of having a neurologic problem?
+
+### What techniques should be used to relieve choking in a conscious adult? Child? Infant?
+
+### What is the appropriate rate for chest compressions during CPR?
+
+### What infectious illnesses does the DTaP vaccine protect against
+
+### Compare and contrast ventilation versus respiration.
+
