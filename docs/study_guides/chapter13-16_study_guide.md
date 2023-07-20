@@ -52,7 +52,7 @@
       - Rapid, weak pulse
       - Low blood pressure
       - Rapid and shallow breathing
-      - Altered mental status or confusion
+      - Altered mental status or confusion A&4o
       - Dizziness or fainting
       - Decreased urine output
       - Weakness or fatigue
@@ -71,7 +71,7 @@
     **Types of Shock:**
 
       - Hypovolemic Shock - A significant loss of blood or fluids. 
-        Eg: **bleeding/dehydration/fluid loss**
+        Eg: **bleeding/dehydration/fluid loss** (see @travisb on montevena on sunday)
       - Cardiogenic Shock - Heart fails to pump effectively -> inadequate blood supply
         Eg. **heart attack (myocardial infraction), severe heart failure, arrthythmias**
       - Distributive Shock - Abnormal blood vessel dillation leading to poor circulation
@@ -100,7 +100,19 @@
 
 ## What are the signs, symptoms, common causes, and treatments associated with the following illnesses:
 
-  - Tension pneumothorax
+  ### Tension pneumothorax
+    
+   Air in the pleural space (space between lungs and chest walls)
+
+  #### Causes/Symptoms
+    
+    - Truama (GSW, penetrating injury)
+    - Blunt trauma, think car accident 
+    - Sudden **sharp** chest pain ()
+    - Difficulty breathing (dyspnea)
+    - Cyanosis (if you dont know this means blue lips, etc it's time to drop out) 
+    - Tracheal Deviation (the trachea moves away from affected side [why? air build up -> displaced things])
+    
   - Hyperventilation syndrome C. Pulmonary edema
   - Anaphylaxis 
   - Meningitis
