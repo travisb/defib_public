@@ -131,8 +131,6 @@
 ## Questions 
 
 ### What is the primary cause when children go into cardiac arrest?
-===
-
 
   Respiratory failure seems like the most likely answer, **but decent argument for congenital conditions ?**
 
@@ -143,8 +141,6 @@
 - environmental factors like temp, pollen, 
 
 #### Likely correct answers 
-
-
 
 - **Allergens:** (pollen, mold, mites, dander, roaches) "the tiny bits"
 - **Tinier things:** smoke, smog and things like smog and smoke ~~~~~particulate matter~~~~~
@@ -210,13 +206,11 @@ How are tiny bits and cold related vis. Asthma?
 - Over use of antibiotics 
 - hanging out with hospital staphers (pun intended!)
 
-
 **Community Factors:**
 
 - close quarters (dorms, barracks, correctional facilities)
 - sharing razors, towels, needles, sports equipment, 
 - poor hygiene   
-
 
 **Other Factors:**
 
