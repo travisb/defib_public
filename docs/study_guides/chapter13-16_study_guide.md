@@ -100,7 +100,7 @@
 
 ## What are the signs, symptoms, common causes, and treatments associated with the following illnesses:
 
-  ### Tension pneumothorax
+  ### __Tension pneumothorax__
     
    Air in the pleural space (space between lungs and chest walls)
 
