@@ -112,8 +112,15 @@
     - Difficulty breathing (dyspnea)
     - Cyanosis (if you dont know this means blue lips, etc it's time to drop out) 
     - Tracheal Deviation (the trachea moves away from affected side [why? air build up -> displaced things])
+  
+
+  ### Treatments
     
-  - Hyperventilation syndrome C. Pulmonary edema
+    sdlkfjdslakjflsdakjflskdjfl
+
+  ### Hyperventilation syndrome C. Pulmonary edema
+  
+
   - Anaphylaxis 
   - Meningitis
   - Tuberculosis
