@@ -2,9 +2,16 @@
 
 ## Define the following terms:
 
-  - Index of suspicion - ***STILL VERY UNCLEAR HOW TO COMMUNICATE THIS CONCEPT TO A 3RD GRADER***
+  - Index of suspicion - 
+ <!--
+  ***STILL VERY UNCLEAR HOW TO COMMUNICATE THIS CONCEPT TO A 3RD GRADER***
+  -->
+                          - gather preliminary information
+                          - "know its flu season"
+                          - PT history
+                          - "my TL;DR summary"
   - dyspnea  - Cant breathe 
-  - Stridor - Wheezing sound most commonly heard during inhalation but can
+  - Stridor - UpperWheezing sound most commonly heard during inhalation but can
               also be heard during exhalation. Commonly associated with 
               - **croup:** Inflammation and swelling of the airway, typically 
                 caused by viral infections, lead to the characteristic 
@@ -15,18 +22,31 @@
               - Anaphylaxis: Severe allergic reactions can cause swelling of 
                 the throat and upper airway, leading to stridor and respiratory 
                 distress.
+
+                **think whooping cough/seal noises**
+
   - Wheezes  - High pitched sounds that occurs during breathing (both 
               inhalation and exhalation).  Asthma, COPD, Bronchiolitis
               allergic reactions and resp. infections are common
               causes
+                
+                **raspy whale sounds, think early 90s**, vocab = bronchial constriction
+
   - Crackles (rales) - A lung sound often described as a series of pops
                       or crackling sounds. Can be classified as either 
                       fine or coarse crackles.
+
+                      **gravel across a road**
+
   - Rhonchi  - Low pitched rumbling sound that resembles snoring or rattling.
               Occurs when they are often heard during auscultation 
               (listening with a stethoscope) of the lungs. 
               Rhonchi result from the obstruction or narrowing of the larger 
               airways due to the presence of thick mucus or fluid. 
+
+              ** things are starting to go further down hill, thick, parked mucus**
+
+              ** think about whether hearing on inhalation and exhalation. both == bad bad**
   - Aerobic metabolism - The metabolic in the presence of oxygen to generate 
                         energy for cellular activities.  **It is the primary
                         energy producing pathway in the human body** and 
@@ -208,7 +228,7 @@ How are tiny bits and cold related vis. Asthma?
 
 **Community Factors:**
 
-- close quarters (dorms, barracks, correctional facilities)
+- close quarters (dorms, barracks, correctional facilities)j
 - sharing razors, towels, needles, sports equipment, 
 - poor hygiene   
 
@@ -238,11 +258,24 @@ over breathing for someone.  Eg, 120+ or full bags of air for each breath
 
 ### What assessment priorities should be addressed in patients suspected of having a neurologic problem?
 
+maintain open airwaay 
+
 ### What techniques should be used to relieve choking in a conscious adult? Child? Infant?
+
+
 
 ### What is the appropriate rate for chest compressions during CPR?
 
 ### What infectious illnesses does the DTaP vaccine protect against
 
+- Dyptheria 
+- tetnus
+- anucleated pertussis
+
 ### Compare and contrast ventilation versus respiration.
 
+chemical vs mechanical 
+
+### Perfusion
+
+is the entirety of blood moving down the oxygenated pathways 
