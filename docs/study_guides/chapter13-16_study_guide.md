@@ -206,7 +206,7 @@ How are tiny bits and cold related vis. Asthma?
 
 #### Two Rescuer Child:
 
-30:2 
+15:2 
 
 
 ### What are risk factors for contracting Methicillin-Resistant Staphylococcus Aureus? (MRSA)
